@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "bash -c 'node-sass --output Resources/public/css Resources/public/scss'",
+    "watch": "bash -c 'node-sass --output Resources/public/css --watch Resources/public/scss'"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

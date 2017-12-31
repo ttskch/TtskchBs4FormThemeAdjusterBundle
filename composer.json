@@ -1,0 +1,17 @@
+{
+    "name": "ttskch/bs4-form-theme-adjuster-bundle",
+    "description": "",
+    "keywords": ["symfony", "bootstrap4", "form theme"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ttskch\\Bs4FormThemeAdjusterBundle\\": ""
+        }
+    },
+    "require": {
+        "php": ">=5.5.9|^7.1.3",
+        "symfony/framework-bundle": "^3.3|^4.0",
+        "symfony/twig-bundle": "^3.3|^4.0"
+    }
+}

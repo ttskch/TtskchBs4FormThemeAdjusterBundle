@@ -1,0 +1,35 @@
+$color-danger: #dc3545;
+$color-muted: #868e96;
+$input-btn-padding-y: .375rem;
+
+.form-group {
+    // for layout
+    & > .form-control-label,
+    & > .col-form-legend,
+        // for horizontal_layout
+    & > .col-form-label,
+    & > .row > .col-form-legend {
+        &.required {
+            &:after {
+                content: " *";
+                color: $color-danger;
+            }
+        }
+    }
+
+    & .form-check-label {
+        line-height: 1.25em;
+
+        &[class$="-inline"]:not(:last-child) {
+            margin-right: 1em;
+        }
+    }
+
+    & > .row > div[class^="col-"] {
+        padding-top: $input-btn-padding-y;
+    }
+
+    select.unselected {
+        color: $color-muted;
+    }
+}
