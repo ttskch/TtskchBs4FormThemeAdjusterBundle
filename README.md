@@ -17,7 +17,7 @@
 
 ## Requirement
 
-* Symfony ^3.3|^4.0
+* Symfony ^3.4|^4.0
 
 ## Instalation
 
