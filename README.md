@@ -5,7 +5,7 @@
 
 | | Before | After |
 | --- | --- | --- |
-| **Vertical layout** | ![image](https://user-images.githubusercontent.com/4360663/34511770-44b318d8-f0a1-11e7-92aa-e49a70d968ac.png) | ![image](https://user-images.githubusercontent.com/4360663/34511793-6dd2c5ba-f0a1-11e7-8b97-8d84f2bb1725.png) |
+| **Vertical layout** | ![image](https://user-images.githubusercontent.com/4360663/34511776-528844f6-f0a1-11e7-9ef8-1239141a2b13.png) | ![image](https://user-images.githubusercontent.com/4360663/34511793-6dd2c5ba-f0a1-11e7-8b97-8d84f2bb1725.png) |
 | **Horizontal layout** | ![image](https://user-images.githubusercontent.com/4360663/34511756-29962662-f0a1-11e7-8777-cfc1b318d804.png) | ![image](https://user-images.githubusercontent.com/4360663/34511720-e0633732-f0a0-11e7-8981-b1b8ed07754b.png) |
 
 ## Features
