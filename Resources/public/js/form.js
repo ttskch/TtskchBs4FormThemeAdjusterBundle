@@ -6,4 +6,8 @@ $(function() {
             $(this).removeClass('unselected');
         }
     }).trigger('load');
+
+    $('form').on('reset', function() {
+        $(this).find('select').change();
+    });
 });
