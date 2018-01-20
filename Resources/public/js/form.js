@@ -8,6 +8,9 @@ $(function() {
     }).trigger('load');
 
     $('form').on('reset', function() {
-        $(this).find('select').change();
+        let that = this;
+        setTimeout(function() {
+            $(that).find('select').change();
+        }, 0);
     });
 });
