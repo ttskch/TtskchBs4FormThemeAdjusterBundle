@@ -33,7 +33,7 @@ $ composer require ttskch/bs4-form-theme-adjuster-bundle:@dev
 // config/bundles.php
 return [
     // ...
-    Ttskch\Bs4FormThemeAdjusterBundle\Bs4FormThemeAdjusterBundle:class => ['all' => true],
+    Ttskch\Bs4FormThemeAdjusterBundle\TtskchBs4FormThemeAdjusterBundle:class => ['all' => true],
 ];
 ```
 
