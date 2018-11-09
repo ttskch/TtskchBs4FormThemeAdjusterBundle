@@ -4,6 +4,7 @@ $input-btn-padding-y: .375rem;
 
 .form-group {
     // for layout
+    & > label,
     & > .form-control-label,
     & > .col-form-legend,
         // for horizontal_layout
